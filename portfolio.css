@@ -1,0 +1,12 @@
+.text-center{
+	text-align: center !important;
+}
+.jumbotron{
+	padding: 1rem 1rem;
+		padding-top: 1rem;
+		padding-right: 1rem;
+		padding-bottom: 1rem;
+		padding: 1rem;
+	margin-bottom: 2rem;
+	background-color: #e9ecef;
+}
